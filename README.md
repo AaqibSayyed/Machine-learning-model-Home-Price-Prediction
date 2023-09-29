@@ -1,7 +1,5 @@
 # Machine-Learning-Model-Home-Price-Prediction
 
-## Introduction
-
 This repository contains a home price prediction model built using three different regression algorithms: Decision Tree Regressor, Lasso Regression, and Linear Regression. <br />
 Predicting the price of a home is a common problem in the real estate industry and can be crucial for both buyers and sellers. 
 
